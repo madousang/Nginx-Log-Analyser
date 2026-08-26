@@ -104,6 +104,6 @@ Example:
 
 ## Author
 
-Built by [madousang](https://github.com/) as part of practicing shell scripting and log analysis for the [roadmap.sh](https://roadmap.sh/) DevOps track.
+Built by [madousang](https://github.com/madousang/) as part of practicing shell scripting and log analysis for the [roadmap.sh](https://roadmap.sh/) DevOps track.
 
 
